@@ -8,6 +8,6 @@
 
 # Blog Post
 [View my blog](my_experience/readme.md)
- # Linkedin
+ 
  [LinkedIn](https://www.linkedin.com/in/bhagat-preet-singh-845a28318?utm_source=share&utm_campaim)
  
