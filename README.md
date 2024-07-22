@@ -1,6 +1,6 @@
 
 # Bhagat-hunjan.github.io
-![alt text](![bhagat](https://github.com/user-attachments/assets/8a852332-6efb-416c-bc0e-2a44cb970ead)
+![bhagat](https://github.com/user-attachments/assets/8a852332-6efb-416c-bc0e-2a44cb970ead)
 
 - Name:Bhagatpreet Singh
 - Age:18
