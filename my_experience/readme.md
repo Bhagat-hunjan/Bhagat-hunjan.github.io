@@ -20,3 +20,15 @@ Patience
 **Dr.Parminder sir** also addressed us He explained some scholorship schemes
 **Dr.H.S Rai sir** addressed us. He is controller of examinations and told us that Principle in Software development is DRY(DON’T REPEAT YOURSELF).
 Dr H.S Rai sir also told us to do ** POWER SEARCHING COURSE BY GOOGLE** which will help us to search more Quickly and Accurately.
+# Day 3
+It was our First Day in our Classroom. Our First Lecture was of **UNIVERSAL HUMAN VALUES(UHV)**.
+In UHV we learnt about
+Values :-
+values should be rational,universal and lead to Harmony
+Reasons of Unhappiness are :-
+-Lack of Fullfillment of Relationship
+-Lack of Physical Facilities
+-Role of Education:-
+education helps us to develop Right Understanding
+Our Second Lecture was about brief explanation of Canva by our Seniors.
+DAY 4
