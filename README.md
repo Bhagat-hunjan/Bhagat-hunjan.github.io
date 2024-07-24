@@ -5,7 +5,9 @@
 - Name:Bhagatpreet Singh
 - Age:18
 - Education:Btech (Information technology)
-
+# Programming Language
+1:# PYTHON :- Experienced in using python . I have solved different questions , made different GRAPHS, and also used Python Libraries like NUMPY & PANDAS & Looking forward to get more expert in PYTHON
+2:# JAVA :- Currently learning JAVA
 # Blog Post
 [View my blog](my_experience/readme.md)
  
