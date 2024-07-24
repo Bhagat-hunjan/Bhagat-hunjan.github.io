@@ -4,19 +4,19 @@ The day was start with shabad kirtan.I am so lucky to became a part of GNDEC.Aft
 That was a wonderful day at college
 # Day 2
 On our second day Dr. Arvind Dhingra sir addressed us and explained
-Types of membership
+**Types of membership
 Member
 Active Member
 Executive Member
 Officer Bearer
-Two Types of Societies
+**Two Types of Societies
 National level associated
 Department level associated
 Sir also gave us formula of success:-
-3Ps of success
+**3Ps of success
 Passion
 Persistence
 Patience
-Dr.Parminder sir also addressed us He explained some scholorship schemes
-Dr.H.S Rai sir addressed us. He is controller of examinations and told us that Principle in Software development is DRY(DON’T REPEAT YOURSELF).
+**Dr.Parminder sir** also addressed us He explained some scholorship schemes
+**Dr.H.S Rai sir** addressed us. He is controller of examinations and told us that Principle in Software development is DRY(DON’T REPEAT YOURSELF).
 Dr H.S Rai sir also told us to do ** POWER SEARCHING COURSE BY GOOGLE** which will help us to search more Quickly and Accurately.
